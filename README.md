@@ -8,9 +8,9 @@
 ##
 
 <div align="center">
-  <a href="https://github.com/BrunaRavelli-byte">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunaRavelli-byte&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRavelli-byte&layout=compact&langs_count=7&theme=nightowl"/>
+  <a href="https://github.com/brunaRavelli-byte">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrunaRavelli-byte&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunaRavelli-byte&layout=compact&langs_count=7&theme=nightowl"/>
 </div>
   
   <div style="display: inline_block"><br>
