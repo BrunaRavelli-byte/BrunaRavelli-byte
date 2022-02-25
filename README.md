@@ -5,6 +5,8 @@
 - 😄 Pronouns: Ela/Dela
 - 🤣  Fatos engraçados: Tenho medo de gafanhotos
 
+##
+
 <div align="center">
   <a href="https://github.com/BrunaRavelli-byte">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=BrunaRavelli-byte&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
