@@ -1,7 +1,7 @@
   Olá, mundo! Eu sou a Bruna Ravelli 👋
 
 - 🔭 Hoje eu estou trabalhando com marketing e publicidade
-- 📫 Contato via e-mail: brunaravelli13@gmail.com
+- 📫 Contato via e-mail: brunaravelli13@gmail.com 
 - 😄 Pronouns: Ela/Dela
 - 🤣  Fatos engraçados: Tenho medo de gafanhotos
 
